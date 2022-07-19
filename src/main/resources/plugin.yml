@@ -1,0 +1,7 @@
+name: OriginXDoubleJump
+version: '${version}'
+main: gx.lrd1122.OriginXDoubleJump.OriginXDoubleJump
+authors: [lrd1122]
+commands:
+  OriginXDoubleJump:
+    aliases: oxdj
